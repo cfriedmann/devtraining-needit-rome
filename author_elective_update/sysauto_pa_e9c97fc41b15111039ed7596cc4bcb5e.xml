@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa">
+    <sysauto_pa action="DELETE">
+        <active>true</active>
+        <benchmarking>false</benchmarking>
+        <business_calendar/>
+        <collect>scores</collect>
+        <condition/>
+        <conditional>false</conditional>
+        <description>Daily data collector for NeedIt data.</description>
+        <entered_time/>
+        <kill_job>false</kill_job>
+        <name>NeedIt Daily</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2022-08-09 13:22:37</run_start>
+        <run_time>1970-01-01 09:00:00</run_time>
+        <run_type>daily</run_type>
+        <score_fixed_end>00000000</score_fixed_end>
+        <score_fixed_start>00000000</score_fixed_start>
+        <score_operator>relative</score_operator>
+        <score_relative_end>1</score_relative_end>
+        <score_relative_end_interval>days</score_relative_end_interval>
+        <score_relative_start>1</score_relative_start>
+        <score_relative_start_interval>days</score_relative_start_interval>
+        <sys_class_name>sysauto_pa</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-09 13:24:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9c97fc41b15111039ed7596cc4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Daily</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysauto_pa_e9c97fc41b15111039ed7596cc4bcb5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-09 13:24:00</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_pa>
+    <sys_translated_text action="DELETE" query="documentkey=e9c97fc41b15111039ed7596cc4bcb5e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7dbf5ccadb0bb7c08aea21c405961919</instance_id>
+        <instance_name>dev90754</instance_name>
+        <name>sysauto_pa_e9c97fc41b15111039ed7596cc4bcb5e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa"><sysauto_pa action="INSERT_OR_UPDATE"><active>true</active><benchmarking>false</benchmarking><business_calendar/><collect>scores</collect><condition/><conditional>false</conditional><description>Daily data collector for NeedIt data.</description><entered_time/><kill_job>false</kill_job><name>NeedIt Daily</name><offset/><offset_type>0</offset_type><run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as><run_as_tz/><run_dayofmonth>1</run_dayofmonth><run_dayofweek>1</run_dayofweek><run_period/><run_start>2022-08-09 13:22:37</run_start><run_time>1970-01-01 09:00:00</run_time><run_type>daily</run_type><score_fixed_end>00000000</score_fixed_end><score_fixed_start>00000000</score_fixed_start><score_operator>relative</score_operator><score_relative_end>1</score_relative_end><score_relative_end_interval>days</score_relative_end_interval><score_relative_start>1</score_relative_start><score_relative_start_interval>days</score_relative_start_interval><sys_class_name>sysauto_pa</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-09 13:24:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e9c97fc41b15111039ed7596cc4bcb5e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Daily</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sysauto_pa_e9c97fc41b15111039ed7596cc4bcb5e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-09 13:24:00</sys_updated_on><time_zone/><upgrade_safe>false</upgrade_safe></sysauto_pa><sys_translated_text action="delete_multiple" query="documentkey=e9c97fc41b15111039ed7596cc4bcb5e"/></record_update>]]></payload>
+        <payload_hash>793297198</payload_hash>
+        <record_name>NeedIt Daily</record_name>
+        <reverted_from/>
+        <source>e209a0c01b81511039ed7596cc4bcb03</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-09 13:24:00</sys_created_on>
+        <sys_id>69c97fc41b15111039ed7596cc4bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18282c6c36e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-09 13:24:00</sys_updated_on>
+        <type>Scheduled Data Collection</type>
+        <update_guid>a1c97fc4db1511106174208c817c2060</update_guid>
+        <update_guid_history>a1c97fc4db1511106174208c817c2060:793297198</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-09 13:25:58</sys_created_on>
+        <sys_db_object display_value="" name="sysauto_pa">sysauto_pa</sys_db_object>
+        <sys_id>1c06913ff08747209c262b8addf2ee40</sys_id>
+        <sys_metadata>e9c97fc41b15111039ed7596cc4bcb5e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Daily</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysauto_pa_e9c97fc41b15111039ed7596cc4bcb5e</sys_update_name>
+        <sys_update_version display_value="sysauto_pa_e9c97fc41b15111039ed7596cc4bcb5e">69c97fc41b15111039ed7596cc4bcb60</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-09 13:25:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
